@@ -1,0 +1,76 @@
+  
+  /* Typing Test Container */
+  .typing-test-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 50px;
+    border-radius: 10px;
+    color:#909090;
+  }
+  
+  /* Headings */
+  .typing-test-title {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+    margin-bottom: 20px;
+  }
+  
+  .typing-test-subtitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Paragraphs */
+  .typing-test-description {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Lists */
+  .typing-test-list {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+  }
+  
+  .typing-test-item {
+    margin-bottom: 10px;
+  }
+  
+  /* Box Styles */
+  .typing-test-box {
+    background-color:#3d3d3d;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    transition: all 0.6s ease-in-out;
+  }
+  
+  /* Highlighted Text */
+  .typing-test-highlight {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #fad234;
+    margin-top: 20px;
+  }
+  .card-div
+  {
+    display: flex;
+    width:100rem;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .typing-test-box:hover{
+    background-color:white;
+    color:#333;
+    scale: 1.2;
+  }
+  
+  
